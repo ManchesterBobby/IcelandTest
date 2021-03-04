@@ -5,10 +5,7 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IcelandTest", "IcelandTest\IcelandTest.csproj", "{C5DAA50B-9043-4A7A-B030-DEA563230D84}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3449BD09-8C3C-4F02-BAEF-A97654FBACBE}"
-	ProjectSection(SolutionItems) = preProject
-		InventoryModel.cs = InventoryModel.cs
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{B5C17881-A963-4558-8B1A-02D2AF5D7066}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +17,10 @@ Global
 		{C5DAA50B-9043-4A7A-B030-DEA563230D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5DAA50B-9043-4A7A-B030-DEA563230D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5DAA50B-9043-4A7A-B030-DEA563230D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5C17881-A963-4558-8B1A-02D2AF5D7066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5C17881-A963-4558-8B1A-02D2AF5D7066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5C17881-A963-4558-8B1A-02D2AF5D7066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5C17881-A963-4558-8B1A-02D2AF5D7066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
